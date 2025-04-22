@@ -1,6 +1,4 @@
-# cd-wordpress
-continuous deployment wordpress
-
+#lab 7
 TLDR;
 
 ```bash
